@@ -1,0 +1,37 @@
+[
+  {
+
+    "title": "Swander's Automotive",
+    "image": "https://i.ibb.co/wSH6CGx/logo.jpg",
+    "description": "high quality website",
+    "skills": "React Js, CSS, Adobe Photoshop, C#, .NET Asp Core",
+    "gitHubLink": "https://www.github.com/swander926/samonline",
+    "launch": "https://www.swandersauto.com"
+    
+  },
+  {
+    "title": "Algorand Blockchain Solutions",
+    "image": "https://venturebeat.com/wp-content/uploads/2018/02/algorand-2.jpg?w=1200&strip=all",
+    "description": "high quality website",
+    "skills": "React Js, CSS, Adobe Photoshop, C#, .NET Asp Core",
+    "gitHubLink": "https://www.github.com/swander926/samonline",
+    "launch": "https://www.swandersauto.com"
+  },
+  {
+    "title": "Stack Overflow Functionality Clone",
+    "image": "https://res.cloudinary.com/dbtqsg7vf/image/upload/v1559153662/apple.jpg",
+    "description": "high quality website",
+    "skills": "React Js, CSS, Adobe Photoshop, C#, .NET Asp Core",
+    "gitHubLink": "https://www.github.com/swander926/samonline",
+    "launch": "https://www.swandersauto.com"
+  },
+  {
+    "title": "Minesweeper Puzzle",
+    "image": "https://res.cloudinary.com/dbtqsg7vf/image/upload/v1559153663/sugar-cream.jpg",
+    "description": "high quality website",
+    "skills": "React Js, CSS, Adobe Photoshop, C#, .NET Asp Core",
+    "gitHubLink": "https://www.github.com/swander926/samonline",
+    "launch": "https://www.swandersauto.com"
+
+}
+]
