@@ -9,7 +9,7 @@ const Projects = () => {
     {projectdata.map(proj => {
       return (
         <div className="projBox">
-            <img height="250px" width="300px" src={proj.image}/>
+            <img height="200px" width="300px" src={proj.image}/>
           <ul className="projectBox">
             <li>{proj.title}</li>
             <li>{proj.description}</li>
