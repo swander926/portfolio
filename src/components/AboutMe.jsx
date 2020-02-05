@@ -6,7 +6,7 @@ const AboutMe = () => {
     <div>
       <div className="aboutMeDiv">
       <div className="aboutHeader">- About Me -</div>
-      <div className="aboutSection"><img className="meImg" height="500px"src={me}/>
+      <div className="aboutSection"><img className="meImg" height="250px"src={me}/>
         <p className="aboutMeText">I am a passionate individual with a meticulous approach to problem solving. I have a very strong work ethic and am constantly trying to grow and improve myself and others around me.  </p>
 </div>
       </div>
