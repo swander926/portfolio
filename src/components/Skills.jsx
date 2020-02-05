@@ -4,7 +4,7 @@ const Skills = () => {
   return (
     <div className="skillsBox">
       <ul className="skillsColumn">
-        <li className="skillTitle">Technologies:</li>
+        <p className="skillTitle">Technologies:</p>
         <div className="innerList">
           <li>React Js</li>
           <li>JavaScript</li>
@@ -20,7 +20,7 @@ const Skills = () => {
       </ul>
 
       <ul className="skillsColumn">
-        <li className="skillTitle">Professional Skills:</li>
+        <p className="skillTitle">Technical Skills:</p>
         <div className="innerList">
         <li>Troubleshooting</li>
         <li>Project Management</li>
@@ -31,12 +31,13 @@ const Skills = () => {
       </ul>
 
       <ul className="skillsColumn">
-        <li className="skillTitle">Soft Skills:</li>
+        <p className="skillTitle">Misc.</p>
         <div className="innerList extraMargin">
-        <li>Bonsai enthusiast</li>
-        <li>Live Music advocate</li>
-        <li>Soccer player / referee</li>
+        <li>Bonsai Enthusiast</li>
+        <li>Live Music Advocate</li>
+        <li>Soccer Player / Referee</li>
         <li>Discoverer</li>
+        <li>Pin Artist</li>
         </div>
       </ul>
     </div>

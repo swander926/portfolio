@@ -32,6 +32,10 @@ body {
   right: 80px;
 }
 
+div .projects {
+  margin: 0;
+  padding: 0;
+}
 
 
 .topNav {
@@ -97,6 +101,64 @@ margin-left: 1px;
   margin-bottom: 5rem;
 }
 
+@media(max-width: 425px) {
+
+  .titleInfo h1 {
+    font-size: 56px;
+  }
+ .titleInfo p {
+   font-size: 30px;
+   line-height: 1;
+ }
+
+ .skillsColumn p {
+   font-size: 20px;
+   font-weight: bold;
+   padding-bottom: 10px;
+   line-height: 1;
+ }
+
+ .skillsColumn li {
+   padding: 0;
+   font-size: 14px;
+ }
+
+ li {
+   padding: 0;
+ }
+
+ .navLink {
+   font-size: 10px;
+   padding: 0;
+   /* margin: 0; */
+ }
+
+ .aboutSection {
+   display: flex;
+   width: 100%;
+ }
+
+
+  
+}
+
+@media(max-width: 1000px) {
+  .aboutSection {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .meImg {
+    width: 250px; 
+  }
+}
+
+@media(min-width: 1500px) {
+  .aboutMeText {
+    width: 40%;
+  }
+}
+
 @media(max-width: 720px) {
   .resumeContainer {
     padding-top: 5rem;
@@ -104,8 +166,38 @@ margin-left: 1px;
 
   .name {
     line-height: 1;
+    font-size: 80px;
   }
   
+}
+
+@media(max-width: 601px) {
+
+  li {
+    list-style: none;
+    text-align: center;
+  }
+
+  .skillsColumn {
+    align-items: center;
+  }
+
+  .skillsBox div {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@media(max-width: 500px) {
+  .resumeContainer {
+    padding-top: 15rem;
+  }
+}
+
+@media(max-width: 375px) {
+  .resumeContainer {
+    padding-top: 20rem;
+  }
 }
 
 @media(max-width: 1200px) {
@@ -130,7 +222,9 @@ margin-left: 1px;
 @media (max-width: 1400px) {
   .skillsBox {
     flex-direction: column;
+    
   }
+ 
 
   .extraMargin {
   margin-right: 20px;
@@ -225,7 +319,7 @@ margin-left: 1px;
 }
 
 .skillTitle {
-  font-size: 30px;
+  font-size: 26px;
   font-family: 'Quantico', sans-serif;
   text-decoration: underline;
   font-weight: bold;
@@ -272,7 +366,7 @@ margin-left: 1px;
   font-family: 'Anonymous Pro', monospace;
   font-size: 25px;
   /* border: solid pink 2px; */
-  width: 40%;
+  /* width: 40% */
 }
 
 .aboutSection {

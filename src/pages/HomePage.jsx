@@ -28,7 +28,7 @@ const HomePage = () => {
     
   
     <div className="titleInfo">
-      <p className="name">Nathanael Swander</p>
+      <h1 className="name">Nathanael Swander</h1>
       <p className="title">Software Developer</p>
     </div>
   </div>
