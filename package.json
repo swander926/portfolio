@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "Nathanael Swander",
+  "name": "NathanaelSwander",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
