@@ -9,14 +9,15 @@ const Projects = () => {
     {projectdata.map(proj => {
       return (
         <div className="projBox">
+            <img height="250px" width="300px" src={proj.image}/>
           <ul className="projectBox">
-            <li><img height="250px" src={proj.image}/></li>
             <li>{proj.title}</li>
             <li>{proj.description}</li>
             <li>{proj.skills}</li>
-            <li>{proj.gitHubLink}</li>
-            <li>{proj.launch}</li>
-
+            <div className="linkSeparator">
+              <li><a target="_blank" className="projectLink" href={proj.gitHubLink}>Code</a></li>
+              <li><a target="_blank" className="projectLink" href={proj.launch}>Live Site</a></li>
+            </div>
           </ul>
         </div>
       )

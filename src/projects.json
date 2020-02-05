@@ -14,24 +14,24 @@
     "image": "https://venturebeat.com/wp-content/uploads/2018/02/algorand-2.jpg?w=1200&strip=all",
     "description": "high quality website",
     "skills": "React Js, CSS, Adobe Photoshop, C#, .NET Asp Core",
-    "gitHubLink": "https://www.github.com/swander926/samonline",
-    "launch": "https://www.swandersauto.com"
+    "gitHubLink": "https://github.com/swander926/algorandtest",
+    "launch": "https://testnet.algoexplorer.io/tx/BSQD5K3KKK25A3XPQJZHJZS37ILA23WT3BIHSXG3NNXY5TZ6JVPA"
   },
   {
     "title": "Stack Overflow Functionality Clone",
     "image": "https://res.cloudinary.com/dbtqsg7vf/image/upload/v1559153662/apple.jpg",
     "description": "high quality website",
     "skills": "React Js, CSS, Adobe Photoshop, C#, .NET Asp Core",
-    "gitHubLink": "https://www.github.com/swander926/samonline",
-    "launch": "https://www.swandersauto.com"
+    "gitHubLink": "https://www.github.com/swander926/suncoastoverflow",
+    "launch": "https://suncoastoverflow-honeybook.netlify.com/"
   },
   {
     "title": "Minesweeper Puzzle",
     "image": "https://res.cloudinary.com/dbtqsg7vf/image/upload/v1559153663/sugar-cream.jpg",
     "description": "high quality website",
     "skills": "React Js, CSS, Adobe Photoshop, C#, .NET Asp Core",
-    "gitHubLink": "https://www.github.com/swander926/samonline",
-    "launch": "https://www.swandersauto.com"
+    "gitHubLink": "https://github.com/swander926/minesweeper",
+    "launch": "https://minesweeper-honeybook.netlify.com/"
 
 }
 ]
