@@ -11,8 +11,8 @@ const Projects = () => {
         <div className="projBox">
             <img height="200px" width="300px" src={proj.image}/>
           <ul className="projectBox">
-            <li>{proj.title}</li>
-            <li>{proj.description}</li>
+            <li className="projectTitle">{proj.title}</li>
+            <li className="projectDescription">{proj.description}</li>
             <li>{proj.skills}</li>
             <div className="linkSeparator">
               <li><a target="_blank" className="projectLink" href={proj.gitHubLink}>Code</a></li>

@@ -3,8 +3,8 @@
 
     "title": "Swander's Automotive",
     "image": "https://i.ibb.co/ZmL8Qy5/samlogowhite.png",
-    "description": "high quality website",
-    "skills": "React Js, CSS, Adobe Photoshop, C#, .NET Asp Core",
+    "description": "Developed a high quality professional website for an established company. Created a separate admin page for user to update inventory and automate appointment requests using multiple APIs",
+    "skills": "React Js, C#, .NET Asp Core, CSS, Adobe Ps",
     "gitHubLink": "https://www.github.com/swander926/samonline",
     "launch": "https://www.swandersauto.com"
     
@@ -12,24 +12,24 @@
   {
     "title": "Algorand Blockchain Solutions",
     "image": "https://i.ibb.co/TPdgCCF/algorand3.png",
-    "description": "high quality website",
-    "skills": "React Js, CSS, Adobe Photoshop, C#, .NET Asp Core",
+    "description": "Created a new token on Algorand Blockchain then created multiple accounts for swapping assets with private keys. Implemented JavaScript SDK to convert to TEAL language for verification.",
+    "skills": "JavaScript",
     "gitHubLink": "https://github.com/swander926/algorandtest",
     "launch": "https://testnet.algoexplorer.io/tx/BSQD5K3KKK25A3XPQJZHJZS37ILA23WT3BIHSXG3NNXY5TZ6JVPA"
   },
   {
-    "title": "Stack Overflow Functionality Clone",
+    "title": "Suncoast Overflow",
     "image": "https://i.ibb.co/b3kMjVr/stackoverflow.png",
-    "description": "high quality website",
-    "skills": "React Js, CSS, Adobe Photoshop, C#, .NET Asp Core",
+    "description": "Stack Overflow functionality clone. Created interface where a user can add, delete, edit, and vote for questions/answers. Used docker to host C# app on Heroku",
+    "skills": "C#, React Js, .NET Core, PostGreSQL, CSS",
     "gitHubLink": "https://www.github.com/swander926/suncoastoverflow",
     "launch": "https://suncoastoverflow-honeybook.netlify.com/"
   },
   {
     "title": "Minesweeper Puzzle",
     "image": "https://i.ibb.co/YXTk6Tg/screen-10.jpg",
-    "description": "high quality website",
-    "skills": "React Js, CSS, Adobe Photoshop, C#, .NET Asp Core",
+    "description": "Built out logic game for Minesweeper using React Js. Post requests sent to API to update game board and check play state.",
+    "skills": "React Hooks, JavaScript, CSS ",
     "gitHubLink": "https://github.com/swander926/minesweeper",
     "launch": "https://minesweeper-honeybook.netlify.com/"
 

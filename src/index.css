@@ -147,6 +147,16 @@ margin-left: 1px;
   
 }
 
+@media(max-width: 811px) {
+  li {
+  text-align: center;
+  list-style: none;
+  /* margin-left: 0; */
+  }
+
+}
+
+
 @media(max-width: 1000px) {
   .aboutSection {
     flex-direction: column;
@@ -180,7 +190,6 @@ margin-left: 1px;
 
   li {
     list-style: none;
-    text-align: center;
   }
 
   .skillsColumn {
@@ -272,7 +281,18 @@ margin-left: 1px;
 
 .projectBox {
   padding: 0;
-  /* list-style: none; */
+  list-style: none;
+  width: 400px;
+  margin-left: 10px;
+}
+
+.projectTitle {
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+  color: rgba(255, 255, 255, 0.35);
+  font-size: 20px;
+  padding-bottom: 10px;
 }
 
 .skillsTable {
@@ -312,6 +332,8 @@ margin-left: 1px;
   margin: 0;
   padding: 0;
   align-items: center;
+  margin-bottom: 2rem;
+  justify-content: center;
 
 
 
@@ -415,9 +437,20 @@ margin-left: 1px;
   margin-top: 20px;
 }
 
+.linkSeparator li {
+  margin-left: 20px;
+  margin-bottom: 5px;
+  /* list-style: square; */
+}
+
+.projectDescription {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
 .projectLink {
   /* text-decoration: none; */
-  color: white;
+  color: rgba(255, 255, 255, 0.822);
   font-weight: bold;
   font-size: 20px;
   /* justify-content: center;
@@ -425,6 +458,7 @@ margin-left: 1px;
   display: flex; */
 
 }
+
 
 .projectLink:hover {
   color: rgba(255, 255, 255, 0.699);
