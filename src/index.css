@@ -97,6 +97,56 @@ margin-left: 1px;
   margin-bottom: 5rem;
 }
 
+@media(max-width: 720px) {
+  .resumeContainer {
+    padding-top: 5rem;
+  }
+
+  .name {
+    line-height: 1;
+  }
+  
+}
+
+@media(max-width: 1200px) {
+  .topNav {
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+}
+
+@media(max-width: 1300px) {
+  .projectsTable {
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+  
+}
+
+@media (max-width: 1400px) {
+  .skillsBox {
+    flex-direction: column;
+  }
+
+  .extraMargin {
+  margin-right: 20px;
+  }
+
+  /* .skillsColumn {
+    align-items: flex-start;
+  } why wont this work???? */
+
+  .skillTitle {
+    /* display: flex;
+    justify-content: flex-start; */
+    /* text-align: left; */
+  }
+}
+
 .projectsTitle {
   font-size: 40px;
   /* border: solid pink 2px; */
@@ -116,6 +166,9 @@ margin-left: 1px;
   margin-left: 10px;
   padding-top: 25px;
   font-family: sans-serif;
+  margin-bottom: 10px;
+  margin-top: 10px;
+
 }
 
 .projectBox {
@@ -131,6 +184,7 @@ margin-left: 1px;
 
 .skillsBox {
   display: flex;
+  /* flex-direction: column; */
   justify-content: center;
   text-align: center;
   background-color: rgb(9, 53, 54);
