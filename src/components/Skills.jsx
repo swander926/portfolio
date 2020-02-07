@@ -4,23 +4,23 @@ const Skills = () => {
   return (
     <div className="skillsBox">
       <ul className="skillsColumn">
-        <p className="skillTitle">Technologies</p>
+        <p className="skillTitle">Technological</p>
         <div className="innerList">
+          <li>C#</li>
           <li>React Js</li>
-          <li>JavaScript</li>
-          <li>CSS</li>
-          <li>SQL</li>
-          <li>PostgreSQL</li>
           <li>.NET Core</li>
           <li>ASP.NET Core</li>
-          <li>C#</li>
-          <li>Git</li>
           <li>RESTful API</li>
+          <li>JavaScript</li>
+          <li>PostgreSQL</li>
+          <li>SQL</li>
+          <li>CSS</li>
+          <li>Git</li>
         </div>
       </ul>
 
       <ul className="skillsColumn">
-        <p className="skillTitle">Technical Skills</p>
+        <p className="skillTitle">Technical</p>
         <div className="innerList">
         <li>Troubleshooting</li>
         <li>Project Management</li>
@@ -31,13 +31,14 @@ const Skills = () => {
       </ul>
 
       <ul className="skillsColumn">
-        <p className="skillTitle">Extra-Curricular</p>
+        <p className="skillTitle">Personal</p>
         <div className="innerList">
-        <li>Bonsai Enthusiast</li>
-        <li>Live Music Advocate</li>
+        <li>Bonsai Artist</li>
+        <li>Avid Traveler</li>
+        <li>Live Music Enthusiast</li>
         <li>Soccer Player / Referee</li>
-        <li>Discoverer</li>
-        <li>Pin Artist</li>
+        <li>Pin Designer</li>
+        <li>Explorer</li>
         </div>
       </ul>
     </div>

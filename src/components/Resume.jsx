@@ -2,6 +2,8 @@ import React from 'react'
 
 const Resume = () => {
   return (
+    <>
+    <div className="resumePaddingContainer">
     <div className="resumeContainer">
       <a
         target="_blank" className="resumeButton"
@@ -10,6 +12,8 @@ const Resume = () => {
         Resume
       </a>
     </div>
+    </div>
+    </>
   )
 }
 

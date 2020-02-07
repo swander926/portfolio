@@ -11,6 +11,7 @@ const Projects = () => {
         <div className="projBox">
             <img height="200px" width="300px" src={proj.image}/>
           <ul className="projectBox">
+          {/* <li><a target="_blank" className="projectLink" href={proj.launch}>{proj.Title}</a></li> */}
             <li className="projectTitle">{proj.title}</li>
             <li className="projectDescription">{proj.description}</li>
             <li>{proj.skills}</li>
