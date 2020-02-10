@@ -159,6 +159,10 @@ margin-left: 1px;
   /* margin-left: 0; */
   }
 
+  .skillsColumn p {
+    margin-right: 0;
+  }
+
 }
 
 
