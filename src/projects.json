@@ -32,6 +32,14 @@
     "skills": "React Hooks, JavaScript, CSS ",
     "gitHubLink": "https://github.com/swander926/minesweeper",
     "launch": "https://minesweeper-honeybook.netlify.com/"
+  },
+  {
+    "title": "Code Katas",
+    "image": "https://i.ibb.co/bNhRtVz/codekatas.jpg",
+    "description": "Created a repository for code challenges with built-in test functionality for the user. Multiple files are available with and without solutions.",
+    "skills": "JavaScript, C#",
+    "gitHubLink": "https://github.com/swander926/codekatas",
+    "launch": "https://github.com/swander926/codekatas/blob/master/Test/src/functions.test.js"
 
 }
 ]
