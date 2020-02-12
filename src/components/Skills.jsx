@@ -3,7 +3,7 @@ import React from 'react'
 const Skills = () => {
   return (
     <div className="skillsBox">
-      <ul className="skillsColumn">
+      <ul className="skillsColumn extraSkillPadding">
         <p className="skillTitle">Technological</p>
         <div className="innerList">
           <li>C#</li>
@@ -19,7 +19,7 @@ const Skills = () => {
         </div>
       </ul>
 
-      <ul className="skillsColumn">
+      <ul className="skillsColumn negativeMargin">
         <p className="skillTitle">Technical</p>
         <div className="innerList">
         <li>Troubleshooting</li>
@@ -30,7 +30,7 @@ const Skills = () => {
         </div>
       </ul>
 
-      <ul className="skillsColumn">
+      <ul className="skillsColumn negativeMargin">
         <p className="skillTitle">Personal</p>
         <div className="innerList">
         <li>Bonsai Artist</li>
