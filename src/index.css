@@ -263,12 +263,6 @@ p {
   }
 }
 
-@media (max-width: 1300px) {
-  .projectsTable {
-    flex-flow: row wrap;
-    justify-content: center;
-  }
-}
 
 @media (max-width: 1400px) {
   .skillsBox {
@@ -393,7 +387,7 @@ p {
 }
 
 .extraSkillPadding {
-padding-bottom: 20px;
+padding-bottom: 40px;
 }
 
 .skillTitle {
@@ -609,4 +603,33 @@ h5 {
   text-align: center;
   margin-left: -8px;
   margin-bottom: 10px;
+}
+
+
+@media (max-width: 1300px) {
+  .projectsTable {
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+  .homeTopBackground div {
+    position: relative;
+    margin-top: 30rem;
+    margin-left: 175px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 0;
+    /* border: solid red 2px; */
+    align-items: center;
+   
+  
+  }
+  .homeTopBackground p {
+   line-height: 1;
+  }
+  .titleInfo h1 {
+   
+    /* border: solid blue 6px; */
+  }
 }

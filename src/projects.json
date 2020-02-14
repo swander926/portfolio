@@ -11,7 +11,7 @@
   },
   {
     "title": "Algorand Blockchain Solutions",
-    "image": "https://i.ibb.co/TPdgCCF/algorand3.png",
+    "image": "https://i.ibb.co/rZr3D3r/algorand-white.png",
     "description": "Created a new token on Algorand Blockchain then created multiple accounts for swapping assets with private keys. Implemented JavaScript SDK to convert to TEAL language for verification.",
     "skills": "JavaScript",
     "gitHubLink": "https://github.com/swander926/algorandtest",
