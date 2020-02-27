@@ -15,7 +15,7 @@ const HomePage = () => {
         <a className="navLink" href="#projectTarget">Projects </a>
       </li>
       <li>
-        <a target="_blank" className="navLink" href="https://drive.google.com/file/d/17EwZQptwmOkahvlxFsHlUEk2HPtlZhT4/view?usp=sharing"> Resume </a>
+        <a target="_blank" className="navLink" href="https://drive.google.com/open?id=1e7mR_QNI3FUzYM7PDDKmoW8p00Gmziqa"> Resume </a>
       </li>
       <li>
         <a className="navLink"  href="#aboutTarget"> About </a>
@@ -24,6 +24,7 @@ const HomePage = () => {
         <a className="navLink" href="#contactTarget"> Contact</a>
       </li>
     </ul></nav>
+    <div className="homeTopContainer">
   <div className="homeTopBackground">
     
   
@@ -31,6 +32,7 @@ const HomePage = () => {
       <h1 className="name">Nathanael Swander</h1>
       <p className="title">Software Developer</p>
     </div>
+  </div>
   </div>
   <div className="projects">
     <h1 id="projectTarget" className="projectsTitle"> - Portfolio - </h1>

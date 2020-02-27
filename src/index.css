@@ -237,17 +237,31 @@ p {
 
 @media (max-width: 450px) {
   .resumePaddingContainer div {
+    padding-top: 50rem;
+  }
+}
+
+
+
+@media (max-width: 360px) {
+  .resumePaddingContainer div {
+    padding-top: 50rem;
+  }
+}
+
+@media (max-width: 320px) {
+  .resumePaddingContainer div {
     padding-top: 60rem;
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 270px) {
   .resumePaddingContainer div {
     padding-top: 80rem;
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 220px) {
   .resumePaddingContainer div {
     padding-top: 100rem;
   }
@@ -262,7 +276,6 @@ p {
     padding-bottom: 10px;
   }
 }
-
 
 @media (max-width: 1400px) {
   .skillsBox {
@@ -387,7 +400,7 @@ p {
 }
 
 .extraSkillPadding {
-padding-bottom: 40px;
+  padding-bottom: 40px;
 }
 
 .skillTitle {
@@ -605,7 +618,6 @@ h5 {
   margin-bottom: 10px;
 }
 
-
 @media (max-width: 1300px) {
   .projectsTable {
     flex-flow: row wrap;
@@ -613,7 +625,7 @@ h5 {
   }
   .homeTopBackground div {
     position: relative;
-    margin-top: 30rem;
+    margin-top: 15rem;
     margin-left: 175px;
     display: flex;
     flex-direction: column;
@@ -622,14 +634,21 @@ h5 {
     padding: 0;
     /* border: solid red 2px; */
     align-items: center;
-   
-  
   }
   .homeTopBackground p {
-   line-height: 1;
+    line-height: 1;
   }
   .titleInfo h1 {
-   
     /* border: solid blue 6px; */
+  }
+
+  .homeTopContainer div {
+    min-height: 500px;
+  }
+
+  .aboutSection p {
+    font-size: 22px;
+    width: 95%;
+    /* text-align: justify; */
   }
 }

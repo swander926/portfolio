@@ -7,7 +7,7 @@ const Resume = () => {
     <div className="resumeContainer">
       <a
         target="_blank" className="resumeButton"
-        href="https://drive.google.com/file/d/17EwZQptwmOkahvlxFsHlUEk2HPtlZhT4/view?usp=sharing"
+        href="https://drive.google.com/open?id=1e7mR_QNI3FUzYM7PDDKmoW8p00Gmziqa"
       >
         Resume
       </a>
