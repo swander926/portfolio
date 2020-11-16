@@ -15,7 +15,7 @@ const HomePage = () => {
         <a className="navLink" href="#projectTarget">Projects </a>
       </li>
       <li>
-        <a target="_blank" className="navLink" href="https://drive.google.com/open?id=1e7mR_QNI3FUzYM7PDDKmoW8p00Gmziqa"> Resume </a>
+        <a target="_blank" className="navLink" href="https://drive.google.com/open?id=13cTpMfklLJal0jZ4YIYzE4RGV8alnb62"> Resume </a>
       </li>
       <li>
         <a className="navLink"  href="#aboutTarget"> About </a>
@@ -29,7 +29,7 @@ const HomePage = () => {
     
   
     <div className="titleInfo">
-      <h1 className="name">Nathanael Swander</h1>
+      <h1 className="name">Nathanael Scott</h1>
       <p className="title">Software Developer</p>
     </div>
   </div>
